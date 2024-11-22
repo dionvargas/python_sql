@@ -20,5 +20,5 @@ dao.atualizar(produto_id=1, produto=produto_atualizado)
 print("Produto atualizado com sucesso!")
 
 # Deletando um produto
-dao.deletar(produto_id=1)
+dao.deletar(produto_id=2)
 print("Produto deletado com sucesso!")
